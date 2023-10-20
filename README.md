@@ -15,6 +15,7 @@
 Welcome to the Secom Semiconductor Company Data Prediction Project. This project's primary objective is to predict Success and Fail outcomes based on Secom Semiconductor Company's production data.
 
 ## Data Loading and Preprocessing
+https://www.kaggle.com/datasets/paresh2047/uci-semcom
 
 In the initial phase of the project, I meticulously loaded Secom's production data and conducted thorough data preprocessing. This step involved various data cleaning processes, including handling missing values and addressing outliers. Furthermore, I transformed categorical data into a numerical format through methods such as one-hot encoding and label encoding for enhanced analysis.
 

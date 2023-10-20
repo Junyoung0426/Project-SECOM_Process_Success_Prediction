@@ -52,7 +52,7 @@ The Secom Semiconductor Company Data Prediction Project represents an exhaustive
 
 ## Usage
 1. Clone this repository:
-git clone https:/ https://github.com/Junyoung0426/Predict_Insurance.git
+git clone https://github.com/Junyoung0426/Project-SECOM_Process_Success_Prediction.git
 2. Open the Jupyter Notebook:
 jupyter notebook insurance_prediction.ipynb
 3. Run the notebook to preprocess data, perform EDA, train models, and make predictions.

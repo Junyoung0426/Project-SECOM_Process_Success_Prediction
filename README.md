@@ -1,5 +1,15 @@
 # Project-SECOM_Process_Success_Prediction
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Data Loading and Preprocessing](#data-loading-and-preprocessing)
+3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+4. [Resampling](#resampling)
+5. [Model Training and Evaluation](#model-training-and-evaluation)
+6. [Results and Prediction Heatmap](#results-and-prediction-heatmap)
+7. [Conclusion](#conclusion)
+   
 ## Project Overview
 
 Welcome to the Secom Semiconductor Company Data Prediction Project. This project's primary objective is to predict Success and Fail outcomes based on Secom Semiconductor Company's production data.

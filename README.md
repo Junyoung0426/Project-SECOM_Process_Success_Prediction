@@ -49,3 +49,11 @@ Following the rigorous model training and evaluation, the project culminated in 
 ## Conclusion
 
 The Secom Semiconductor Company Data Prediction Project represents an exhaustive effort to predict Success and Fail outcomes using the available production data. The project's findings offer valuable insights into the performance of various machine learning models, contributing to potential improvements in Secom's production processes.
+
+## Usage
+1. Clone this repository:
+git clone https:/ https://github.com/Junyoung0426/Predict_Insurance.git
+2. Open the Jupyter Notebook:
+jupyter notebook insurance_prediction.ipynb
+3. Run the notebook to preprocess data, perform EDA, train models, and make predictions.
+

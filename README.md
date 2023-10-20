@@ -22,7 +22,7 @@ In the initial phase of the project, I meticulously loaded Secom's production da
 ## Exploratory Data Analysis (EDA)
 
 The heart of this project was the Exploratory Data Analysis (EDA) phase. My goal was to delve into the data's intricacies and understand its key characteristics. The primary EDA activities consisted of:
-
+- Dealing the missing values
 - Visualizing data distributions to detect potential outliers.
 - Uncovering correlations between variables.
 - Addressing class imbalance issues through informative visualizations.
